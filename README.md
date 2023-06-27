@@ -21,8 +21,9 @@ Firewall Indicator is a simple GTK application that displays a tray icon represe
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/voltable-com/firewall-indicator.git
    ```
+   [Repository](https://github.com/voltable-com/firewall-indicator.git)
 
 2. Install the required dependencies:
 
